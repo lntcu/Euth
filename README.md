@@ -1,4 +1,4 @@
-Note that this project is not to be taken seriously, just like DOOM Captcha. It provides no security and should never be used as actual authentication. Please do not use this for anything other than for fun.a
+Note that this project is not to be taken seriously, just like DOOM Captcha. It provides no security and should never be used as actual authentication. Please do not use this for anything other than for fun.ab
 
 # Euth Authentication
 
